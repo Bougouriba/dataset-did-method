@@ -1,2 +1,2 @@
 # did-method-dataset
-Empirical Community Reporting about DID Methods
+Empirical Community Journalism about DID Methods
